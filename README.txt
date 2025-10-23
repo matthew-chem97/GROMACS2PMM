@@ -15,3 +15,7 @@ Here you can insert the name of the output and the name of the off_diagonal elem
 Launch as
 python3 matrix.py > out.txt
 It will generate you the full dipole matrix ready to use in a PMM calculation !
+4)order.py
+It could be useful if you need to switch some lines to maintain the MD order.
+The script is very efficient in exchanging rows.
+Be careful when you use, switches are done sequentally !
