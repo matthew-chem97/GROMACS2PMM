@@ -20,7 +20,3 @@ It could be useful if you need to switch some lines to maintain the MD order.
 The script is very efficient in exchanging rows.
 Be careful when you use, switches are done sequentally !
 
-LICENSE
-Created with the help of AI tools (ChatGPT/Gemini).
-You are free to use and modify the script for personal use.
-DO NOT PUBLISH modified versions.
